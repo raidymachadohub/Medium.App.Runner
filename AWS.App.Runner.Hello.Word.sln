@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS.App.Runner.Hello.Word", "AWS.App.Runner.Hello.Word\AWS.App.Runner.Hello.Word.csproj", "{A755F267-D84F-4B94-A4E9-0B61C818A23E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{EA4A8111-FC9F-4D9E-B133-0529865F7FFE}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A755F267-D84F-4B94-A4E9-0B61C818A23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A755F267-D84F-4B94-A4E9-0B61C818A23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A755F267-D84F-4B94-A4E9-0B61C818A23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A755F267-D84F-4B94-A4E9-0B61C818A23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
